@@ -1,0 +1,4 @@
+networkx>=3.1
+pandas>=2.1.0
+numpy>=1.25.0
+scipy>=1.11.0
